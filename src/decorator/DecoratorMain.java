@@ -1,4 +1,6 @@
-package decorator.code;
+package decorator;
+
+import decorator.code.*;
 
 public class DecoratorMain {
     public static void main(String[] args) {
